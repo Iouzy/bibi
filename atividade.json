@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-23",
+ "atualizado": "2026-09-26",
  "exercicios": [
   {
    "dia": "2026-09-07",
@@ -85,6 +85,16 @@
    "dia": "2026-09-16",
    "tema": "Reforço",
    "descricao": "switch sobre a letra da nota (A–F) e do-while até ser válida."
+  },
+  {
+   "dia": "2026-09-24",
+   "tema": "Reforço",
+   "descricao": "Arrays de nomes e de notas: média da turma, validação 0–20 e melhor aluno."
+  },
+  {
+   "dia": "2026-09-24",
+   "tema": "Arrays",
+   "descricao": "Arrays: encontrar o maior valor. Ainda vazio."
   }
  ]
 }

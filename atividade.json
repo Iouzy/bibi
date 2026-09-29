@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-26",
+ "atualizado": "2026-09-29",
  "exercicios": [
   {
    "dia": "2026-09-07",
@@ -95,6 +95,11 @@
    "dia": "2026-09-24",
    "tema": "Arrays",
    "descricao": "Arrays: encontrar o maior valor. Ainda vazio."
+  },
+  {
+   "dia": "2026-09-28",
+   "tema": "Arrays",
+   "descricao": "Procura"
   }
  ]
 }
